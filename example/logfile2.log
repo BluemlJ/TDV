@@ -1,0 +1,91 @@
+2018-07-02 10:51:07,835 | [main2] NEUTRAL VARIANCE is calculated: '50.797480' 
+2018-07-02 10:51:09,122 | [main2] ------------------Calculation of localerror finished
+2018-07-02 10:51:11,807 | [main2] ------------------Mountains set
+2018-07-02 10:51:12,686 | [main2] ------------------Neighbourhood calculation finished
+2018-07-02 10:53:18,602 | [main2] Number of Shifts: '339', Shifts done.
+2018-07-02 10:53:25,926 | [main2] ------------------Manipulation is finished
+2018-07-02 10:53:25,927 | [main2] Global ICV ist '23486.414949'
+2018-07-02 10:53:25,927 | [main2] ------------------ '0.606009' of cells are empty
+2018-07-02 10:53:25,929 | [main2] Iteration '0' finished with '125698.814166' 
+
+2018-07-02 10:53:28,103 | [main2] ------------------Calculation of localerror finished
+2018-07-02 10:53:32,895 | [main2] ------------------Mountains set
+2018-07-02 10:53:34,371 | [main2] ------------------Neighbourhood calculation finished
+2018-07-02 10:54:56,765 | [main2] Number of Shifts: '266', Shifts done.
+2018-07-02 10:54:59,964 | [main2] ------------------Manipulation is finished
+2018-07-02 10:54:59,965 | [main2] Global ICV ist '22228.724569'
+2018-07-02 10:54:59,966 | [main2] ------------------ '0.598639' of cells are empty
+2018-07-02 10:54:59,969 | [main2] Iteration '1' finished with '42756.466953' 
+
+2018-07-02 10:55:01,168 | [main2] ------------------Calculation of localerror finished
+2018-07-02 10:55:04,491 | [main2] ------------------Mountains set
+2018-07-02 10:55:05,279 | [main2] ------------------Neighbourhood calculation finished
+2018-07-02 10:56:02,916 | [main2] Number of Shifts: '165', Shifts done.
+2018-07-02 10:56:05,185 | [main2] ------------------Manipulation is finished
+2018-07-02 10:56:05,185 | [main2] Global ICV ist '21737.362868'
+2018-07-02 10:56:05,186 | [main2] ------------------ '0.595805' of cells are empty
+2018-07-02 10:56:05,187 | [main2] Iteration '2' finished with '23497.309040' 
+
+2018-07-02 10:56:06,367 | [main2] ------------------Calculation of localerror finished
+2018-07-02 10:56:10,289 | [main2] ------------------Mountains set
+2018-07-02 10:56:11,264 | [main2] ------------------Neighbourhood calculation finished
+2018-07-02 10:57:04,292 | [main2] Number of Shifts: '145', Shifts done.
+2018-07-02 10:57:06,427 | [main2] ------------------Manipulation is finished
+2018-07-02 10:57:06,427 | [main2] Global ICV ist '21277.420189'
+2018-07-02 10:57:06,427 | [main2] ------------------ '0.597506' of cells are empty
+2018-07-02 10:57:06,428 | [main2] Iteration '3' finished with '19474.090145' 
+
+2018-07-02 10:57:07,459 | [main2] ------------------Calculation of localerror finished
+2018-07-02 10:57:09,763 | [main2] ------------------Mountains set
+2018-07-02 10:57:10,556 | [main2] ------------------Neighbourhood calculation finished
+2018-07-02 10:58:10,107 | [main2] Number of Shifts: '159', Shifts done.
+2018-07-02 10:58:12,995 | [main2] ------------------Manipulation is finished
+2018-07-02 10:58:12,995 | [main2] Global ICV ist '20851.280178'
+2018-07-02 10:58:12,996 | [main2] ------------------ '0.595805' of cells are empty
+2018-07-02 10:58:12,997 | [main2] Iteration '4' finished with '17567.930204' 
+
+2018-07-02 10:58:14,272 | [main2] ------------------Calculation of localerror finished
+2018-07-02 10:58:16,714 | [main2] ------------------Mountains set
+2018-07-02 10:58:17,559 | [main2] ------------------Neighbourhood calculation finished
+2018-07-02 10:59:00,146 | [main2] Number of Shifts: '157', Shifts done.
+2018-07-02 10:59:02,313 | [main2] ------------------Manipulation is finished
+2018-07-02 10:59:02,313 | [main2] Global ICV ist '20292.489576'
+2018-07-02 10:59:02,314 | [main2] ------------------ '0.600340' of cells are empty
+2018-07-02 10:59:02,315 | [main2] Iteration '5' finished with '15454.272090' 
+
+2018-07-02 10:59:03,366 | [main2] ------------------Calculation of localerror finished
+2018-07-02 10:59:05,760 | [main2] ------------------Mountains set
+2018-07-02 10:59:06,544 | [main2] ------------------Neighbourhood calculation finished
+2018-07-02 10:59:50,993 | [main2] Number of Shifts: '130', Shifts done.
+2018-07-02 10:59:53,140 | [main2] ------------------Manipulation is finished
+2018-07-02 10:59:53,140 | [main2] Global ICV ist '19993.519167'
+2018-07-02 10:59:53,141 | [main2] ------------------ '0.600340' of cells are empty
+2018-07-02 10:59:53,142 | [main2] Iteration '6' finished with '13598.700453' 
+
+2018-07-02 10:59:54,159 | [main2] ------------------Calculation of localerror finished
+2018-07-02 10:59:56,557 | [main2] ------------------Mountains set
+2018-07-02 10:59:57,400 | [main2] ------------------Neighbourhood calculation finished
+2018-07-02 11:00:51,032 | [main2] Number of Shifts: '153', Shifts done.
+2018-07-02 11:00:53,480 | [main2] ------------------Manipulation is finished
+2018-07-02 11:00:53,481 | [main2] Global ICV ist '19567.049639'
+2018-07-02 11:00:53,481 | [main2] ------------------ '0.602041' of cells are empty
+2018-07-02 11:00:53,482 | [main2] Iteration '7' finished with '12343.811361' 
+
+2018-07-02 11:00:54,602 | [main2] ------------------Calculation of localerror finished
+2018-07-02 11:00:57,335 | [main2] ------------------Mountains set
+2018-07-02 11:00:58,189 | [main2] ------------------Neighbourhood calculation finished
+2018-07-02 11:01:39,015 | [main2] Number of Shifts: '136', Shifts done.
+2018-07-02 11:01:41,627 | [main2] ------------------Manipulation is finished
+2018-07-02 11:01:41,627 | [main2] Global ICV ist '19073.757099'
+2018-07-02 11:01:41,628 | [main2] ------------------ '0.604875' of cells are empty
+2018-07-02 11:01:41,629 | [main2] Iteration '8' finished with '12010.418561' 
+
+2018-07-02 11:01:43,041 | [main2] ------------------Calculation of localerror finished
+2018-07-02 11:01:45,674 | [main2] ------------------Mountains set
+2018-07-02 11:01:46,410 | [main2] ------------------Neighbourhood calculation finished
+2018-07-02 11:02:22,826 | [main2] Number of Shifts: '146', Shifts done.
+2018-07-02 11:02:24,869 | [main2] ------------------Manipulation is finished
+2018-07-02 11:02:24,870 | [main2] Global ICV ist '18572.718368'
+2018-07-02 11:02:24,870 | [main2] ------------------ '0.607143' of cells are empty
+2018-07-02 11:02:24,871 | [main2] Iteration '9' finished with '10211.568710' 
+

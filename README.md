@@ -21,8 +21,7 @@ On the left side we see the Atom Dataset from the Fundamental Clustering Problem
 
 ![Idea](https://github.com/BluemlJ/TDV/blob/master/images/topogram.png)
 
-The visualization result for the example in example/
-
+The visualization is the result if we used the default parameter in process.py and used them for the example in the example folder.
 ## Scripts
 
 **dim_red**: Script with four common dimensional reduction approaches. Works with csv.
@@ -45,17 +44,19 @@ The UCI ISOLET Dataset has over 6000 instances and over 600 dimensions. (https:/
 The first step is to use the dim_red script to generate a csv file. This has the new dimensions dred1 and dred2 as first and second column and represents the data after using a dimensional reduction approach.
 
 After generating the new csv, we can set the hyperparameter and the correct path to this csv in process.py.
-After this we can start this script. It will generate different visualizations while running and save them in images/. The results will be saved as csv file. The structure of this file is the following:
-
-Column 0: dred1
-Column 1: dred2
-Column 2: height
-Column 3-n: Data 
 
 Be careful with the parameters and their effects on the runtime. 
 
-The result.csv can be visualized with seperatly. 
-The logs can be found in logfile and logfil2. The first is detailed version for debugging. The size of this file not to underestimate. We did not save one here. Logfile2 is far more an overview and a smaller version.
+After this we can start this script. It will generate different visualizations while running and save them in images/. The results will be saved as a csv file. The structure of this file is the following:
 
-The overall runtime of this approach is quite heavy so dont worry if it needs hours. 
+Column 0: dred1;
+Column 1: dred2;
+Column 2: height;
+Column 3-n: Data;... 
+
+
+The result.csv can be visualized seperatly. 
+The logs can be found in logfile and logfil2. The first is detailed version for debugging. The size of this file not to underestimate. We did not upload logfile here because his size. Logfile2 is far more an overview and a smaller version.
+
+The overall runtime of this approach is quite heavy so dont worry if it needs time. 
 
