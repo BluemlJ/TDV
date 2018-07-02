@@ -9,7 +9,7 @@ INPUT_CSV: str = 'example/isolet_tsne.csv'
 # The output file, a csv with index, without header, First three columns are x,y and z.
 OUTPUT_CSV: str = 'example/result.csv'
 # Number of rows
-ROWS: int = 22
+ROWS: int = 42
 # Number of rows
 ITERATIONS: int = 10
 # Number of columns, if None, ROWS will be used instead
@@ -55,7 +55,7 @@ def iteration(grid, list_to_manipulate):
     logger2.debug("------------------Mountains set")
 
     for cell in list_to_manipulate:
-        cell.neighbourhood = grid.calc_neighbourhood(cell=cell, max_distance=MAX_DISTANCE)
+        cell.neighbourhood = grid.calc_neighbourhood(cell=cell, max_distance=MAX_DISTANCE*(1/ROWS))
         logger.debug("NEIGHBOURHOOD calculation for cell '%i' finished '%s'", cell.id, cell.print_neighbourhood())
 
     logger.info("------------------Neighbourhood calculation finished")

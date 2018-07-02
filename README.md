@@ -19,19 +19,23 @@ The main topic of this thesis is the evaluation of the feasibility of my approac
 
 On the left side we see the Atom Dataset from the Fundamental Clustering Problem Suite by Ultsch (https://www.uni-marburg.de/fb12/arbeitsgruppen/datenbionik/data) and the representation as a scatterplot after using PCA. On the right side we see the calculated topographical map.
 
+![Idea](https://github.com/BluemlJ/TDV/blob/master/images/topogram.png)
+
+The visualization result for the example in example/
+
 ## Scripts
 
-dim_red: Script with four common dimensional reduction approaches. Works with csv.
+**dim_red**: Script with four common dimensional reduction approaches. Works with csv.
 
-draw_image: Class for drawing topograms and heatmaps. It also can draw isochrones if we do not use this function yet. It works on the grid class and should be used in the process not after. 
+**draw_image**: Class for drawing topograms and heatmaps. It also can draw isochrones if we do not use this function yet. It works on the grid class and should be used in the process not after. 
 
-eval: Evaluates distance preservation and neighbourhood preservation. It is not needed in the process but can be used for evaluation after using. 
+**eval**: Evaluates distance preservation and neighbourhood preservation. It is not needed in the process but can be used for evaluation after using. 
 
-math_functions: Some math functions 
+**math_functions**: Some math functions 
 
-process: The "main" script of this approach.
+**process**: The "main" script of this approach.
 
-objects/...: Object classes representing the data. datapoint representing one row of the original data. Cell representing a group of points wihtin a fixed position on the grid. Grid held global informations about the cells.
+**objects/...**: Object classes representing the data. datapoint representing one row of the original data. Cell representing a group of points wihtin a fixed position on the grid. Grid held global informations about the cells.
 
 ## Example
 
