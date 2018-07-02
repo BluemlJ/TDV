@@ -1,7 +1,8 @@
-# TDV
-## Topograpical distance visualization
+# Topograpical distance visualization (TDV)
 
-This repository representing a prototypical implementation of my bachelor thesis. The thesis has the topic **Enhancing dimension reduction visualizations with topographical information**
+This repository representing a prototypical implementation of my bachelor thesis. 
+
+The thesis has the topic **Enhancing dimension reduction visualizations with topographical information**
 
 ## Idea/Abstract
 Visualization and dimensional reduction often play a critical role in the field of "Visual analytics". Most dimensional reduction approaches visualize their data only with scatterplots, which lose the benefits of complex or more recent visualization techniques. By not using these methods information can get lost. Further are reduction methods always faulty, credibility is therefore to be considered with caution.
