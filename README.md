@@ -15,6 +15,10 @@ The main topic of this thesis is the evaluation of the feasibility of my approac
 
 ## Visualizations
 
+![Idea](https://github.com/BluemlJ/TDV/blob/master/idea.png)
+
+On the left side we see the Atom Dataset from the Fundamental Clustering Problem Suite by Ultsch (https://www.uni-marburg.de/fb12/arbeitsgruppen/datenbionik/data) and the representation as a scatterplot after using PCA. On the right side we see the calculated topographical map.
+
 ## Scripts
 
 dim_red: Script with four common dimensional reduction approaches. Works with csv.
