@@ -1,4 +1,9 @@
 # TDV
+## Topograpical distance visualization
+
+This repository representing a prototypical implementation of my bachelor thesis. The thesis has the topic **Enhancing dimension reduction visualizations with topographical information**
+
+## Idea/Abstract
 Visualization and dimensional reduction often play a critical role in the field of "Visual analytics". Most dimensional reduction approaches visualize their data only with scatterplots, which lose the benefits of complex or more recent visualization techniques. By not using these methods information can get lost. Further are reduction methods always faulty, credibility is therefore to be considered with caution.
 
 In this thesis I evaluate a new approach to visualize complex and big data, by combining dimensional reduction methods with topographical visualization. Therefore I present an prototypical implementation to test and compare this approach with recent dimensional reduction approaches. For the comparison I used two common metrics in form of neighborhood preservation and distance preservation. For the implementation I use established and recent dimensional reduction as prestept to my approach.
